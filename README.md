@@ -1,4 +1,8 @@
 ### Hi there 👋
+<p>Pronouns: he/him/his <br>
+  <br>
+🌱 I’m currently learning machine learning models and autonomous control for Vex Robotics</p> 
+
 
 <!--
 **Tolga-Cav/Tolga-Cav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
