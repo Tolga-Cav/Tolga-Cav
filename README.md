@@ -1,7 +1,7 @@
 ### Hi there 👋
 <p>Pronouns: he/him/his <br>
   <br>
-🌱 I’m currently learning machine learning models and autonomous control for Vex Robotics</p> 
+University Student in the UK interested in robotics control and electrical engineering.</p> 
 
 
 <!--
