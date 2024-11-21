@@ -1,7 +1,7 @@
 ### Hi there 👋
 <p>Pronouns: he/him/his <br>
   <br>
-University Student in the UK interested in robotics control and electrical engineering.</p> 
+University student in the UK studying Engineering. I am interested in electrical and electronics engineering, robotics, and systems and control.</p> 
 
 
 <!--
